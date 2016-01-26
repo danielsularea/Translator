@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a file used to testing -->
+
+<resources>
+    <string name="hello">Hello</string>
+    <string name="name">Name</string>
+
+    <string-array name="str_array">
+        <item name="morning">morning</item>
+    </string-array>
+</resources>
